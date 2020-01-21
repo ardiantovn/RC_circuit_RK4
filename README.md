@@ -1,7 +1,9 @@
 # RC_circuit_RK4
 Pemodelan sirkuit RC menggunakan Runge Kutta 4
 
+
 Sirkuit RC
+
 ![RC](https://user-images.githubusercontent.com/16162415/72775248-2f752000-3c40-11ea-86aa-b1d3bfbadcf9.PNG)
 
 pict source:https://iopscience.iop.org/article/10.1088/1742-6596/1090/1/012015/pdf
